@@ -30,7 +30,7 @@
     "rsn/**/*.ts",
     "*.ts",
     "*.js"
-  ],
+, "cypress/support/e2e.js", "cypress/support/commands.js"  ],
   "exclude": [
     "node_modules",
     "frontend",
